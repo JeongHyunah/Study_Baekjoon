@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.acmicpc.net/">
-    <img width="70%" src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOS8YW7nLVFuh-vN8IAZd6qvAwL50oac10O5R2sepKEho3VAOHdIhq-iFxIKCHJPlG-jvLJT4pCFcCYuObxQ1miEPVXaTQ=w1365-h969" alt="자바 프로젝트 배너"></img></a>
+    <img width="70%" src="https://drive.google.com/file/d/1WptXi5gWRwJyZ_nsvxEfGyV7We0H8oqk/view?usp=sharing" alt="백준 공부"></img></a>
   
   <h3>𝐓𝐨𝐨𝐥 & 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞</h3>
     <img src="https://img.shields.io/badge/visualstudio-ba7157?style=for-the-badge&logo=visualstudio&logoColor=white"></img>
