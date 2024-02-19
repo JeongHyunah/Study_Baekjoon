@@ -9,11 +9,10 @@
 	난이도: 하
 	알고리즘을 생각하기까지 10분이 걸리지 않음, 문제를 이해하고 오래 쓰지 않은 C언어 문법 때문에 시간이 소요됨
 */
-int main()
+int Baekjoon_10810()
 {
 	int arrSize, condition;
 	int num1, num2, num3;
-	char *result;
 
 	scanf("%d %d", &arrSize, &condition);
 	arrSize += 1;
